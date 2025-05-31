@@ -1,8 +1,7 @@
-/*  your css code here. If applicable */
 body {
   margin: 0;
+  padding: 0;
   height: 100vh;
-  background-color: white;
   position: relative;
 }
 
@@ -23,8 +22,7 @@ body {
   align-items: center;
 }
 
-
-.center-box span {
+.center-text {
   color: purple;
-  font-size: 16px;
+  margin: 0;
 }
